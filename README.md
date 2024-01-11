@@ -4,3 +4,5 @@
 - Check out my personal portfolio website: [samueljcatania.com](https://www.samueljcatania.com)
 - Feel free to message me on my [linkedin](https://www.linkedin.com/in/samueljamescatania/)! 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
