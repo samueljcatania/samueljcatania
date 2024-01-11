@@ -37,3 +37,4 @@ jobs:
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
           AUTHOR_NAME: Samuel Catania
+          AUTHOR_EMAIL: samueljcatania@gmail.com
