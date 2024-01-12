@@ -5,24 +5,13 @@
 - Feel free to message me on my [linkedin](https://www.linkedin.com/in/samueljamescatania/)! 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+```txt
+JavaScript         41 mins         ██████████▓░░░░░░░░░░░░░░   43.18 %
+Java               13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+HTML               12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
+JSON               6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+C                  5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+```
 
-> 📦 3.0 MB Used in GitHub's Storage 
- > 
-> 🏆 25 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/samueljcatania/samueljcatania/main/assets/bar_graph.png)
-
-
- Last Updated on 12/01/2024 05:01:14 UTC
 <!--END_SECTION:waka-->
