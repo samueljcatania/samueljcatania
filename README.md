@@ -4,6 +4,9 @@
 - Check out my personal portfolio website: [samueljcatania.com](https://www.samueljcatania.com)
 - Feel free to message me on my [linkedin](https://www.linkedin.com/in/samueljamescatania/)! 
 
+---
+
+**Weekly Development Breakdown**
 <!--START_SECTION:waka-->
 
 ```txt
