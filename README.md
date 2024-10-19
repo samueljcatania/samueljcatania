@@ -1,9 +1,5 @@
-### Hi there 👋
-
-- I’m currently studying at Western University, enrolled in an Honors Specialization in Computer Science.
+- I’m currently working at CIBC as a GenAI Application Developer (check out some of my work on CIBC-AI [here](https://www.newswire.ca/news-releases/cibc-launches-custom-built-cibc-ai-platform-and-rolls-out-github-copilot-803776814.html))
 - Check out my personal portfolio website: [samueljcatania.com](https://www.samueljcatania.com)
-- Feel free to message me on my [linkedin](https://www.linkedin.com/in/samueljamescatania/)! 
-
 ---
 
 **Weekly Development Breakdown**
