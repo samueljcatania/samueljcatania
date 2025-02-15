@@ -1,4 +1,4 @@
-- I’m currently working at CIBC as a GenAI Application Developer (check out some of my work on CIBC-AI [here](https://www.newswire.ca/news-releases/cibc-launches-custom-built-cibc-ai-platform-and-rolls-out-github-copilot-803776814.html))
+- I’m currently working at CIBC as a Senior GenAI Application Developer (check out some of my work on CIBC-AI [here](https://www.newswire.ca/news-releases/cibc-launches-custom-built-cibc-ai-platform-and-rolls-out-github-copilot-803776814.html))
 - Check out my personal portfolio website: [samueljcatania.com](https://www.samueljcatania.com)
 ---
 
